@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">콜드론</string>
+    <string name="title_activity_maps">콜드론</string>
+    <string name="call">호출하기</string>
+</resources>

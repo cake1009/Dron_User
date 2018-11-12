@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "project_number": "402354348820",
+    "firebase_url": "https://drone-84864.firebaseio.com",
+    "project_id": "drone-84864",
+    "storage_bucket": "drone-84864.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402354348820:android:ba271be7f518315d",
+        "android_client_info": {
+          "package_name": "com.example.sum10.drone1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402354348820-2g1r0vncocerlcnl1ha9qc3f82apg7p6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sum10.drone1",
+            "certificate_hash": "5de0f739a1f9487a527f356622d9b8388d9e65ea"
+          }
+        },
+        {
+          "client_id": "402354348820-l33viahto85kti13ok1jk01nauvn8l4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCH1zcdzTt36UVDDvyP7PC_HENHx77VbQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402354348820-l33viahto85kti13ok1jk01nauvn8l4o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402354348820:android:f38737454f4c72b7",
+        "android_client_info": {
+          "package_name": "com.example.sum10.dronemanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402354348820-fjjddv2mmbhmh1cutc6u511ngiop3f65.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sum10.dronemanager",
+            "certificate_hash": "5de0f739a1f9487a527f356622d9b8388d9e65ea"
+          }
+        },
+        {
+          "client_id": "402354348820-l33viahto85kti13ok1jk01nauvn8l4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCH1zcdzTt36UVDDvyP7PC_HENHx77VbQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402354348820-l33viahto85kti13ok1jk01nauvn8l4o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402354348820:android:f2f9d926ac530271",
+        "android_client_info": {
+          "package_name": "com.sum10.drone_user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402354348820-l33viahto85kti13ok1jk01nauvn8l4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCH1zcdzTt36UVDDvyP7PC_HENHx77VbQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
